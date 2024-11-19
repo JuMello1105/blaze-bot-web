@@ -1,0 +1,19 @@
+echo "# blaze-bot-web" >> README.md 
+git init 
+git add README.md 
+git commit -m "primeiro commit" 
+git branch -M main 
+git remote add origin https://github.com/JuMello1105/blaze-bot-web.git
+ git push -u origin mainecho "# blaze-bot-web" >> README.md 
+git init 
+git add README.md 
+git commit -m "primeiro commit" 
+git branch -M main 
+git remote add origin https://github.com/JuMello1105/blaze-bot-web.git
+ git push -u origin mainecho "# blaze-bot-web" >> README.md 
+git init 
+git add README.md 
+git commit -m "primeiro commit" 
+git branch -M main 
+git remote add origin https://github.com/JuMello1105/blaze-bot-web.git
+ git push -u origin main
